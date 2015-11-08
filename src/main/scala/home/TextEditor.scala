@@ -76,7 +76,7 @@ object TextEditor extends App {
     // to show an window this line of code is needed...so in order to make the MainFrame at the value "frame" visible this must hold a true Boolean.
     frame.visible = true
 
-  }
+
 
 
 
